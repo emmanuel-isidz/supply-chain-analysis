@@ -392,12 +392,12 @@ Through data cleaning, KPI development, and performance analysis, the project pr
 
 **Emmanuel Isidahomhen**
 
-Aspiring Data Analyst | Marketing Analytics Enthusiast | SQL • Power BI • Excel • Python
+Data Analyst | Analytics Enthusiast | SQL • Power BI • Excel • Python
 
 ### Connect With Me
 
-- LinkedIn: *Add your LinkedIn URL*
-- GitHub: *Add your GitHub URL*
+- LinkedIn: *www.linkedin.com/in/emmanuel-isidahomhen*
+- GitHub: *https://github.com/emmanuel-isidz*
 
 ---
 
